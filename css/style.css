@@ -1,0 +1,12 @@
+img{
+    padding: 10px;
+}
+#data-container{
+    background-color: rgb(184, 231, 215);
+    text-align:justify;
+    font-style: italic;
+    font-weight: 800;
+}
+h1{
+    background-color: rgb(139, 112, 202);
+}
